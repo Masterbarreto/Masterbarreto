@@ -9,18 +9,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Masterbarreto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Masterbarreto" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masterbarreto&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ 
+</a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Masterbarreto&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Masterbarreto&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Masterbarreto&show_icons=true" />
-</picture>
+
 
 <div align="center"> 
 <a href="https://instagram.com/master_barreto/"" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
