@@ -4,22 +4,18 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Masterbarreto&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Masterbarreto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Masterbarreto" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masterbarreto&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- 
 </a>
-
-
 
 <div align="center"> 
 <a href="https://instagram.com/master_barreto/"" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
